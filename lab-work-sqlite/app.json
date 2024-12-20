@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "lab-work-sqlite",
+    "slug": "lab-work-sqlite",
+    "version": "1.0.0",
+    "scheme": "expo-project3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
+  }
+}
